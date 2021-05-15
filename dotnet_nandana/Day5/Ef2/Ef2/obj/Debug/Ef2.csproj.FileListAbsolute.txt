@@ -1,0 +1,12 @@
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\Ef2.exe.config
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\Ef2.exe
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\Ef2.pdb
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\EntityFramework.dll
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\EntityFramework.xml
+D:\dotnet_nandana\Day5\Ef2\Ef2\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet_nandana\Day5\Ef2\Ef2\obj\Debug\Ef2.csprojAssemblyReference.cache
+D:\dotnet_nandana\Day5\Ef2\Ef2\obj\Debug\Ef2.csproj.CoreCompileInputs.cache
+D:\dotnet_nandana\Day5\Ef2\Ef2\obj\Debug\Ef2.csproj.CopyComplete
+D:\dotnet_nandana\Day5\Ef2\Ef2\obj\Debug\Ef2.exe
+D:\dotnet_nandana\Day5\Ef2\Ef2\obj\Debug\Ef2.pdb
